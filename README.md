@@ -1,7 +1,7 @@
 # NeteaseCloudMusicApiWithGo
 
 本项目基于[网易云音乐 API](https://github.com/Binaryify/NeteaseCloudMusicApi) 重新用golang实现  
-网易云api Golng 版 ~~(持续更新)~~   
+网易云api Golng 版 ~~(持续更新)~~    
 [开发详解](https://blog.xiaosiro.cn/posts/NeteaseCloudMusicApiWithGo)
 
 ## 功能特性
@@ -10,7 +10,7 @@
 3. 发送验证码
 4. 校验验证码
 5. 注册(修改密码)  
-6. 。。。等160多个api
+等160多个api
 
 ## 环境要求
 
